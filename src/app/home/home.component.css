@@ -1,0 +1,11 @@
+.home{
+    background-color: RGB(26, 188, 156);
+    font-size:larger;
+    color: #fff;
+    font-family:"Montserrat";
+}
+.line{
+    font-size: xx-large;
+    display: flex;
+    align-items: center;
+}
